@@ -1,6 +1,6 @@
-# NewsGroupClassifier
+# PostLabelPredicter
 
-NewsGroupClassifier is a machine learning model trained on the 20NewsGroups dataset. It predicts which of the 20 predefined labels an email or forum post belongs to. The model is designed as an educational resource to walk users through the process of building a text classification model from scratch.
+PostLabelPredicter is a machine learning model trained on the 20NewsGroups dataset. It predicts which of the 20 predefined labels an email or forum post belongs to. The model is designed as an educational resource to walk users through the process of building a text classification model from scratch.
 
 ## Background
 The 20NewsGroups dataset is a popular dataset for text classification and clustering. It contains around 20,000 newsgroups posts, partitioned across 20 different newsgroups.
