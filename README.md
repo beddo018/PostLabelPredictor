@@ -1,11 +1,11 @@
 # PostLabelPredicter
 
-PostLabelPredicter is a machine learning model trained on the 20NewsGroups dataset. It predicts which of the 20 predefined labels an email or forum post belongs to. The model is designed as an educational resource to walk users through the process of building a text classification model from scratch.
+PostLabelPredicter is a machine learning model trained on the 20NewsGroups dataset. It predicts which of the 20 predefined labels an email or forum post belongs to. The model is designed as an educational resource to walk users through the process of building a text classification model using `scikitlearn`'s built-in tools and datasets.
 
 ## Background
 The 20NewsGroups dataset is a popular dataset for text classification and clustering. It contains around 20,000 newsgroups posts, partitioned across 20 different newsgroups.
 
-This project aims to utilize this dataset to build a text classification model. The project is presented in a single Python notebook, making it easy to follow and understand the various stages of data preprocessing, model training, and evaluation.
+This project aims to utilize this dataset to build a limited text (forum post) classification model. The project is presented in a single Python notebook, making it easy to follow and understand the various stages of data preprocessing, model training, and evaluation.
 
 ## Usage
 To explore the project, simply open the provided Jupyter notebook:
