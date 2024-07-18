@@ -11,7 +11,7 @@ This project aims to utilize this dataset to build a limited text (forum post) c
 To explore the project, simply open the provided Jupyter notebook:
 
 ```
-jupyter notebook NewsGroupClassifier.ipynb
+jupyter notebook PostLabelPredicter.ipynb
 ```
 
 Follow the steps outlined in the notebook to understand the data preprocessing, model training, and evaluation process.
