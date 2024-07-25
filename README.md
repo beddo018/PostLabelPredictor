@@ -1,4 +1,4 @@
-# PostLabelPredicter
+# Post Label Predictor
 
 PostLabelPredicter is a machine learning model trained on the 20NewsGroups dataset. It predicts which of the 20 predefined labels an email or forum post belongs to. The model is designed as an educational resource to walk users through the process of building a text classification model using `scikitlearn`'s built-in tools and datasets.
 
